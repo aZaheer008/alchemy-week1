@@ -14,6 +14,16 @@ label {
   color: #222;
 }
 
+.flexprivatekey {
+  display: flex;
+  flex-direction: row;
+}
+
+.walletbreaker {
+  border: 1px solid black;
+  margin-top: 50px;
+}
+
 .app {
   display: flex;
   max-width: 1400px;
